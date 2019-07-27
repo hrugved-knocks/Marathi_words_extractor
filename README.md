@@ -1,5 +1,5 @@
 # Text_words_extractor
-- Python3 tool to Extract Marathi words from PDF and Write them down in XLS sheet along with Frequency 
+- Python3 tool to Extract Marathi words from PDF and Write them down in XLS sheet along with their Frequency 
 - Although the tool is designed to work on Marathi language, It is compatiable with English/Hindi/Devnagiri 
 
 ## Prerequisites
