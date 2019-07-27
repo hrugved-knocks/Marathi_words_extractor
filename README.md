@@ -18,3 +18,8 @@
 - ![Alt text](screenshot/1.png)
 - ![Alt text](screenshot/2.png)
 - ![Alt text](screenshot/3.png)
+
+## Issues
+
+- Random spaces can be counted because of compability issue in cross platform enconding.
+- If new character arrises (for ex: ’), put it into punctuation variable. Otherwise तीन and तीन’ would be counted seperately.
